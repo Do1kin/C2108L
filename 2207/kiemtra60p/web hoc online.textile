@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> Web Dao Tao Tin Hoc - Truc tuyen</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="container">
+<div class="header">
+<div class="logo">
+<div class="align-center">
+<img src="https://yt3.ggpht.com/pWwVJxASo8Qe4B_AeLt5D4Mn00s85JvEE8cOwMf_UvOjW6gEAP0U7pa1znXxPLLJmEufpWMxiA=s900-c-k-c0x00ffffff-no-rj">
+<h1> Thanh Thao Tin hoc Chi Trong 6 Buoi</h1>
+<img src="https://shinvietnam.com/wp-content/uploads/2020/06/workshop-nhat-ngu-shin-2.jpg ">
+</div>
+</div>
+<div class="menu">
+<div class="align-center">
+<ul>
+	<li>Tin Học</li>
+	<li>Biểu Mẫu</li>
+	<li>Khóa Học</li>
+	<li>Tuyển Dụng</li>
+	<li>Liên Hệ</li>
+</ul>	
+
+ <div class="search">
+ <input type="text"name="s"placeholder="Tìm Kiếm...">
+ <buttom>Search</button>
+ </div>
+</div>
+</div>
+</div>
+<div class="main">
+	<div class="align-center">
+		<div class="main-content">
+<!--Banner-->
+<img src="https://danang.codegym.vn/wp-content/uploads/sites/2/2021/06/khoa-hoc-lap-trinh-mien-phi-cho-nguoi-moi-bat-dau-1-1-1080x650.jpg" style="width: 96%;">
+<div class="row">
+	<div class="col-8">
+		<img src="https://danang.codegym.vn/wp-content/uploads/sites/2/2021/03/thuc-tap-sinh-cong-nghe-thong-tin-2021-1-1080x675.png" style="width: 100%;max-height: 300px;">
+	</div>
+	<div class="col-4">
+		<img src="https://blog.dpas.co.uk/wp-content/uploads/2018/08/Steps-to-a-successful-open-day-flat-icon.jpg" style="width:95%">
+		<p>Gia sư tin học Biên Hòa - Đào tạo tin học cho người đi làm</p>
+		<img src="https://blog.dpas.co.uk/wp-content/uploads/2018/08/Steps-to-a-successful-open-day-flat-icon.jpg" style="width:95%">
+		<p>Đồng Nai Tin Học Sao Việt</p>
+	</div>
+</div>
+</div>
+					
+<div class="menu-right">
+	<div class="menu-item">
+		<div class="menu-title"> TIN HỌC SAO VIỆT</div>
+		<div class="menu-content">
+			<ul>
+				<li><label>1</label>ĐĂNG KÝ HỌC - XẾP LỚP NGAY</li>
+				<li><label>2</label>THỜI GIAN HỌC LINH HOẠT</li>
+				<li><label>3</label>KHÔNG HẠN CHẾ SỐ BUỔI HỌC</li>
+				<li><label>4</label>ĐẢM BẢO HỌC THÀNH NGHỀ</li>
+				<li><label>5</label>CAM KẾT CỰC KỲ HIỆU QUẢ</li>
+				<li><label>6</label>GIÁO VIÊN GIỎI - KINH NGHIỆM</li>
+			</ul>
+		</div>
+	</div>
+	<div class="menu-item">
+<img src="https://viettinlaw.com/wp-content/uploads/2013/07/top-10-trung-tam-gia-su-uy-tin-nhat-tai-thanh-pho-ho-chi-minh.png"style="width:100%">
+</div>
+<div class="menu-item">
+	<div class="menu-title">Bài viết mới</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+
